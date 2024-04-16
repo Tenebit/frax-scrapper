@@ -1,0 +1,9 @@
+html-to-json
+requests 
+beautifulsoup4
+selenium 
+undetected-chromedriver
+pandas
+# "fastapi[all]"
+python-dotenv
+selenium-wire
